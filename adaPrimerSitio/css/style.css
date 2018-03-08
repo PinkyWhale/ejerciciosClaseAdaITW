@@ -1,6 +1,39 @@
- nav {
-    display: block;
+/* Version 1*/
+
+ul{
+	display: inline-block;
 }
+
+ul li {
+	list-style: none;
+
+}
+
+ul li ul li {
+	list-style: square;
+	
+}
+
+
+/*
+Version2
+
+
+ul {
+	list-style: none;
+}
+
+ul li ul{
+	list-style: square;
+}
+*/
+
+/* version 3 */
+.square {
+	list-style: square;
+}
+
+/* Classes */
 
 .icono {
 	width: 40px;
@@ -9,4 +42,14 @@
 
 .menu {
 	font-family: sans-serif;
+
+}
+
+.barraDeNavegacion{
+	background-color: #9CFF93;
+
+}
+
+.enLinea{
+	display: inline-block;
 }
