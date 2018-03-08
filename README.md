@@ -4,6 +4,7 @@ Al inicio de cada archivo indx acotare el dia en que fue hecho y en que modulo m
 INDICE
 ======
 
-##Marzo:
+## Marzo:
 + 06/03/2018 --- (adav3) Primera interaccion con CSS.
 + 08/03/2018 --- (adaHerencia) Entender herencia de clases.
++ 08/03/2018 --- (adaPrimerSitio) Primer maquetado de una web.
