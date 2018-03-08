@@ -1,0 +1,16 @@
+.capital {
+	font-size: 2em;
+}
+
+/* .capital span {
+	font-weight: bold;
+	font-size: 1.5em;
+}*/
+
+.consonante{
+	color: red;
+}
+
+.capital, .consonate {
+	font-family: sans-serif;
+}
