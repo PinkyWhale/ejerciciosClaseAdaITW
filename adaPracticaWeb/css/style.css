@@ -1,0 +1,120 @@
+
+
+*{
+	margin: 0;
+	box-sizing: border-box;
+}
+
+
+header {
+	background-color: #000000;
+	
+}
+
+h1{
+	color: white;
+	text-align: center;
+}
+
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+nav{
+	padding: 1em;
+	text-align: center;
+	background-color: white;
+}
+
+div{
+	margin: 0.5em;
+}
+
+a{
+	background-color: #D86A1E;
+	margin: 1em;
+	font-family: sans-serif;
+	font-size-adjust: 5em;
+
+}
+
+
+section div.ancho{
+	width: 48.5%;
+	height: 10em;
+	align-self: center;
+	display: inline-block;
+	text-align: center;
+}
+
+section div.largo{
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+}
+
+section div.ancho2{
+	width: 31.85%;
+	height: 10em;
+	display: inline-block;
+	text-align: center;
+	}
+.banner{
+	width: auto;
+}
+.titulo{
+	text-align: center;
+	display: inline-block;
+}
+.fondo1{
+	background-color: pink;
+}
+
+.fondo2{
+	padding: 1em;
+	background-color: blue;
+	display: inline-block;
+	width: auto;
+
+}
+
+.fondo3{
+	background-color: green;
+}
+
+.imgGoogle {
+	width: 25%;
+	height: 25%;
+	padding: 0.5em;
+}
+
+
+.botonColor{
+	background-color: #CF872A;
+}
+
+.iconoPerro{
+	width: 80px;
+	height: 80px;
+	display: inline-block;
+}
+
+.imagenPerro{
+	width: 4em;
+	height: 4em;
+
+}
+
+.mapa{
+	background-color: yellow;
+
+}
+
+.izq{
+	float: left;
+}
+.der{
+	float: right;
+}
