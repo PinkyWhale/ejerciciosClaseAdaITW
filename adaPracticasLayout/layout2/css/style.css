@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+nav{
+	display: inline-block;
+	right: 0;
+}
+
+.icono{
+	display: inline-block;
+}
+.cabecera{
+	background-color: #6D6D6D;
+	width: 80%;
+	
+}
+
+.cajitas{
+
+}
+.caja{
+	background-color: #6D6D6D;
+	width: 4em;
+	height: 4em;
+	margin-right: 1em;
+	margin-top: 1em;
+
+	
+}
+
+.seccion1, .seccion2{
+	display: inline-block;
+	width: 50%;
+	
+
+}
+
+.mainCont{
+	width: 100%;
+	background-color: #D7D2D2;
+}
+
+
+/*
+@media(min-width:  600px){
+
+}
+*/
