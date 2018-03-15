@@ -131,13 +131,15 @@ section div.ancho2{
 @media screen and (max-width: 800px){
 
 	a{
-		background-color: none;
-		margin: 0;
+		background-color: orange;
+		margin: 0.4em;
 		color: #FFFFFF;
 		font-family: sans-serif;
-		font-size-adjust: 12px;
-		padding: 0.5em;
-	
+		font-size-adjust: 8px;
+		padding: 0;
+		display: inline-table;
+		height: 0.25em;
+
 	}
 
 	nav{
@@ -146,9 +148,11 @@ section div.ancho2{
 		right: 0;
 		top: 45%;
 		text-align: none;
-		width: 50%;
-		height: 7em;
-		text-align: none;
+		width: 40%;
+		height: 8em;
+		padding: 0;
+		margin: 0;
+		
 
 	}
 

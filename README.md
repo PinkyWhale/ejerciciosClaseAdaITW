@@ -8,3 +8,4 @@ INDICE
 + 06/03/2018 --- (adav3) Primera interaccion con CSS.
 + 08/03/2018 --- (adaHerencia) Entender herencia de clases.
 + 08/03/2018 --- (adaPrimerSitio) Primer maquetado de una web.
++ 14/03/2018 --- (adaPracticaWeb) Diseño Responsive/MediaQueries.
