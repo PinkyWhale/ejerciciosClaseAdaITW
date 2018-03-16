@@ -1,0 +1,15 @@
+.green{
+	background-color: green;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.class{
+	width: 2em;
+	height: 2em;
+	margin: 1em;
+	background-color: grey;
+	display: inline-block;
+}

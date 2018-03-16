@@ -1,0 +1,50 @@
+
+/*
+Row 4
+*/
+.fucsia{
+	background-color: #F63EC5;
+	width: 10em;
+	height: 2em;
+	display: inline-block;
+	margin:-10px;
+}
+
+.cian{
+	background-color: #00FFFD;
+	width: 10em;
+	height: 2em;
+	display: inline-block;
+	margin:-10px;
+}	
+.azul{
+	background-color: blue;
+	width: 10em;
+	height: 2em;
+	display: inline-block;
+	margin:-10px;
+}
+
+.blanco{
+	background-color: lightgrey;
+	width: 10em;
+	height: 2em;
+	display: inline-block;
+	margin:-10px;
+}
+
+.degrade{
+	background-color: #aebcbf;;
+	width: 10em;
+	height: 2em;
+	display: inline-block;
+	margin:-10px;
+}
+
+.negro{
+	background-color: black;
+	width: 10em;
+	height: 2em;
+	display: inline-block;
+	margin:-10px;
+}
