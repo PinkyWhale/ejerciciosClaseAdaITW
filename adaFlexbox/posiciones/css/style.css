@@ -1,0 +1,48 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: 0;
+}
+
+h1{
+	color: white;
+}
+
+a{
+	font-family: Arial;
+}
+
+.navi1{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.titulo{
+	background-color: black;
+}
+
+.separador{
+	background-color: white;
+	width: 100%;
+	height: 1em,
+}
+
+.navi2{
+	display: flex;
+	justify-content: center;
+}
+
+.navi3{
+	display: flex;
+	justify-content: flex-start;
+}
+
+.navi4{
+	display: flex;
+	justify-content: space-between;
+}
+
+.navi5{
+	display: flex;
+	justify-content: space-around;
+}

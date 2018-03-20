@@ -1,0 +1,56 @@
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+h1{
+	font-family: Arial;
+}
+
+body{
+	display: flex;
+	justify-content: center;
+}
+
+img{
+	padding: -1em;
+}
+
+figcaption{
+	padding: 5px;
+}
+
+.mainContainer{
+	width: 600px;
+	padding-top: 4em;
+
+
+}
+.titulo{
+	background-color: black;
+	color: white;
+	display: flex;
+	justify-content: flex-end;
+}
+.galeria{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+.seccion3{
+	background-color: red;
+	padding: 0,2em 0 2em 0; 
+}
+
+.seccion2{
+	background-color: yellow;
+	padding: 0,2em 0 2em 0;
+	
+}
+
+.seccion1{
+	background-color: green;
+	padding: 0,2em 0 2em 0;
+}
