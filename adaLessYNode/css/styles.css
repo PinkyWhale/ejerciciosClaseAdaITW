@@ -1,0 +1,28 @@
+/* esto es una funcion para encampusar las acciones flex para acomodar y usarla 1 vez */
+* {
+  padding: 0;
+  margin: 0;
+}
+header {
+  width: 100%;
+  height: 100%;
+}
+.headerContainer {
+  width: 800px;
+  margin: 0 auto;
+  background: grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.headIzq,
+.headDer {
+  width: 50%;
+  height: 50%;
+}
+.headIzq {
+  background-color: peru;
+}
+.headDer {
+  background-color: yellow;
+}

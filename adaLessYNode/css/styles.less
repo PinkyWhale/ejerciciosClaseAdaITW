@@ -1,0 +1,42 @@
+@mainPadding: 10px;
+@anchoTotal: 800px;
+
+/* esto es una funcion para encampusar las acciones flex para acomodar y usarla 1 vez */
+.flex (@flex-direction: column){
+	display: flex;
+	flex-direction: @flex-direction;
+	justify-content: space-between;
+}
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+
+
+header{
+	width: 100%;
+	height: 100%;
+}
+
+.headerContainer{
+	width: @anchoTotal;
+	margin: 0 auto;
+	background: grey;
+	.flex; 
+}
+
+.headIzq , .headDer{
+	width: 50%;
+	height: 50%;
+}
+
+.headIzq{
+	background-color: peru;
+}
+
+.headDer{
+	background-color: yellow;
+}
+

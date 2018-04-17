@@ -1,0 +1,52 @@
+@circunferencia: 150px;
+@color1:red;
+@color2:blue;
+@color3:green;
+
+.funcionAcomodo{
+	
+}
+
+*{
+	margin:0;
+	padding: 0;
+}
+
+.mainContainer{
+	width: 100%;
+	height: 50%;
+	padding-top: 3em;
+	
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	align-items: center;
+
+}
+
+.bola{
+	width: @circunferencia;
+	height: @circunferencia;
+	border-radius: 50%;
+}
+
+#b1{
+	background-color: @color1;
+	&:hover{
+		background-color:darken(@color1, 25%); /*no se puede poner mas del 30% dependiendo el color*/
+	}
+}
+
+#b2{
+	background-color: @color2;
+	&:hover{
+		background-color:darken(@color2,20%);
+	}
+}
+
+#b3{
+	background-color: @color3;
+	&:hover{
+		background-color:darken(@color3, 5%);
+	}
+}
