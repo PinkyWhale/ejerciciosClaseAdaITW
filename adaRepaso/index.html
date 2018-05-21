@@ -1,0 +1,51 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>JQuery Form</title>
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+	<form id="alquiler" method="post">
+	<div>
+		<label>Nombre</label>
+		<input type="text" name="nombre" id="nombre">
+		<label class="error"></label>
+	</div>
+
+	<div>
+		<label>Apellido</label>
+		<input type="text" name="nombre" id="apellido">
+		<label class="error"></label>
+	</div>
+
+	<div>
+		<label>Mail</label>
+		<input type="text" name="nombre" id="nombre">
+		<label class="error"></label>
+	</div>
+
+	<div>
+		<label>Elegi Pelicula</label>
+
+		<input type="checkbox" name="genero" class="classGenero">
+		<label>Terror</label>
+		
+		<input type="checkbox" name="genero" class="classGenero">
+		<label>Comedia</label>
+		
+		<input type="checkbox" name="genero" class="classGenero">
+		<label>Accion</label>
+	</div>
+
+	<div>
+		<button id="limpiar">Limpiar</button>
+		<button id="alquilar">Alquilar</button>
+		
+	</div>
+
+	</form>
+	<div class="errores"></div>
+	<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="js/validar.js"></script>
+</body>
+</html>
