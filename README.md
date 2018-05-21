@@ -12,3 +12,6 @@ INDICE
 + 14/03/2018 --- (adaPracticaWeb) Diseño Responsive/MediaQueries.
 + 15/03/2018 --- (adaBootstrap) Aprendiendo a suar Bootstrap. "en Proceso..."
 + 20/03/2018 --- (adaFlexbox) Maneo de Flexbox.
+
+##Mayo:
++ 21/05/2018 --- (adaNode2) utilizacion de node y nodemon Ej: Horoscopo.
