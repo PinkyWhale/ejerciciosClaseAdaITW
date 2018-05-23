@@ -13,5 +13,9 @@ INDICE
 + 15/03/2018 --- (adaBootstrap) Aprendiendo a suar Bootstrap. "en Proceso..."
 + 20/03/2018 --- (adaFlexbox) Maneo de Flexbox.
 
+
+## Abril
++ 04/04/2018 --- (adaDOM) Conociendo el DOM.js
+
 ## Mayo:
 + 21/05/2018 --- (adaNode2) utilizacion de node y nodemon Ej: Horoscopo.
